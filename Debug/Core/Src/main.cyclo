@@ -1,0 +1,10 @@
+../Core/Src/main.c:32:5:main	13
+../Core/Src/main.c:138:6:Process_Audio_Data	2
+../Core/Src/main.c:147:6:HAL_I2S_RxHalfCpltCallback	1
+../Core/Src/main.c:153:6:HAL_I2S_RxCpltCallback	1
+../Core/Src/main.c:160:6:SystemClock_Config	4
+../Core/Src/main.c:196:13:MX_I2S2_Init	2
+../Core/Src/main.c:210:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:224:13:MX_DMA_Init	1
+../Core/Src/main.c:231:13:MX_GPIO_Init	1
+../Core/Src/main.c:254:6:Error_Handler	1
